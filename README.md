@@ -1,4 +1,4 @@
-# Portfolio - 21 School (Sberbank Intensive)
+# Portfolio - 21 School (Sberbank)
 
 Welcome to my **Portfolio** repository, showcasing my projects and work completed during the **21 School Sberbank Intensive**. This repository includes a variety of tasks and assignments that I have worked on, demonstrating my skills.
 ### 🚀 **Technologies Used:**
